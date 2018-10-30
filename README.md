@@ -6,12 +6,12 @@ in this game we able to play ping-pong in 2D mode. this game made for desktop on
 
 Fitur : 
 <p>- Main Menu</p>
-&nbsp;<img src="https://raw.githubusercontent.com/anggit97/Android-Developer-Expert-Example/master/Screenshot_1540815441.png" width="300" height="500"/> <br>
+&nbsp;<img src="https://raw.githubusercontent.com/anggit97/Pong2D/master/Screen%20Shot%202018-10-30%20at%204.22.35%20PM.png" width="600" height="350"/> <br>
 
 <p>- Playing Game</p>
-&nbsp;<img src="https://raw.githubusercontent.com/anggit97/Android-Developer-Expert-Example/master/Screenshot_1540815441.png" width="300" height="500"/> <br>
+&nbsp;<img src="https://raw.githubusercontent.com/anggit97/Pong2D/master/Screen%20Shot%202018-10-30%20at%204.22.46%20PM.png" width="600" height="350"/> <br>
 
 <p>- End Game</p>
-&nbsp;<img src="https://raw.githubusercontent.com/anggit97/Android-Developer-Expert-Example/master/Screenshot_1540815500.png" width="300" height="500"/> <br>
+&nbsp;<img src="https://raw.githubusercontent.com/anggit97/Pong2D/master/Screen%20Shot%202018-10-30%20at%204.23.02%20PM.png" width="600" height="350"/> <br>
 
 <p>Feel free to fork and modification, enjoy :)</p>
